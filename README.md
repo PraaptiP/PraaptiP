@@ -5,24 +5,11 @@
 > Building intelligent systems that turn **data + AI into practical solutions.**
 
 B.Tech student specializing in **Artificial Intelligence and Data Science**, with hands-on experience across **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Data Analytics**.
-
-I build AI systems that go beyond model experimentation, from **AI-powered legal document intelligence** to **multi-agent synthetic data generation for industrial defect detection**.
-
 ### 🏆 Highlights
 
 🏅 **IEEE IES International Generative AI Challenge 2026 — Top 10 Finalist**  
 📄 **Published Research Paper accepted by IEEE - “AgentRefine: A Multi-Agent Refinement Pipeline for Synthetic Defect Image Generation”**  
 ☁️ **AWS Certified Cloud Practitioner**
-
-### ⚡ What I Build
-
-🤖 **AI/ML** → Machine Learning · Deep Learning · Computer Vision · NLP  
-✨ **Generative AI** → LLMs · Agentic AI · Synthetic Data · AI Agents  
-📊 **Data** → Python · SQL · Pandas · Analytics  
-⚙️ **Engineering** → FastAPI · React · PostgreSQL · Git
-
-> **From data to models, from ideas to intelligent systems.**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/praapti-p-013568291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praaptip.aids2023@citchennai.net) 
