@@ -4,14 +4,15 @@
 
 > Building intelligent systems that turn **data + AI into practical solutions.**
 
-B.Tech student specializing in **Artificial Intelligence and Data Science**, with hands-on experience across **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Data Analytics**.
+B.Tech student in **Artificial Intelligence & Data Science** building practical
+systems across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**.
 ### 🏆 Highlights
 
 🏅 **IEEE IES International Generative AI Challenge 2026 — Top 10 Finalist**  
-📄 **Published Research Paper accepted by IEEE - “AgentRefine: A Multi-Agent Refinement Pipeline for Synthetic Defect Image Generation”**  
+📄 📄 **IEEE Research Paper Accepted** — *AgentRefine: A Multi-Agent Refinement Pipeline*  
 ☁️ **AWS Certified Cloud Practitioner**
 
-## 🌐 Socials:
+## 🔗 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/praapti-p-013568291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praaptip.aids2023@citchennai.net) 
 
 # 💻 Tech Stack:
