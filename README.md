@@ -9,7 +9,7 @@ systems across **Machine Learning, Deep Learning, NLP, Computer Vision, and Gene
 ### 🏆 Highlights
 
 🏅 **IEEE IES International Generative AI Challenge 2026 — Top 10 Finalist**  
-📄 📄 **IEEE Research Paper Accepted** — *AgentRefine: A Multi-Agent Refinement Pipeline*  
+📄 **IEEE Research Paper Accepted** — *AgentRefine: A Multi-Agent Refinement Pipeline*  
 ☁️ **AWS Certified Cloud Practitioner**
 
 ## 🔗 Connect:
